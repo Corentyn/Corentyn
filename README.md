@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Corentyn
-- ⏳ I'm 19 years old 
-- 📚 IUT de Calais / Computer Sciences
 - 👀 I’m interested in WEB Developement
 - 🌱 I’m currently learning PHP / JavaScript
 
